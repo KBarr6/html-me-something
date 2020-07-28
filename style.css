@@ -1,0 +1,43 @@
+
+body {
+  background-image: url("img/background2.png");
+  -o-transform: 0.60;
+  }
+
+h1 {
+    color: white;
+    font-size: 40px;
+}
+
+h2 {
+    color: white;
+    font-size: 40px;
+}
+
+h3 {
+    color: white;
+    font-size: 40px;
+}
+
+h4 {
+    color: white;
+    font-size: 40px;
+}
+
+h5 {
+    color: white;
+    font-size: 40px;
+}
+
+.monospace {
+    font-family: "Lucida Console";
+  }
+
+p {
+    font-size: 25px;
+}
+.header {
+    text-align: center;
+    padding: 30px;
+  }
+
